@@ -12,6 +12,11 @@ import scraper.samsclub
 import scraper.toysrus
 import scraper.walmart
 import scraper.multicom
+import scraper.netonnet
+import scraper.proshop
+import scraper.dustin
+import scraper.komplett
+
 
 from scraper.common import ScraperFactory
 
