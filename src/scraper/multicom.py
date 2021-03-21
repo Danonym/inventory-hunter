@@ -36,7 +36,7 @@ class MulticomScraper(Scraper):
 
     @staticmethod
     def get_driver_type():
-        return 'selenium'
+        return 'requests'
 
     @staticmethod
     def get_result_type():
